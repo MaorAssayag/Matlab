@@ -1,6 +1,6 @@
-function [result] = jacobe(A, v, N, thresehold, real_q)
+function [result] = jacobi(A, v, N, thresehold, real_q)
 
-%jacobel(A, v, thresehold) solve iteratively a system of linear equations 
+%jacobi(A, v, thresehold) solve iteratively a system of linear equations 
 % A * q = v, N is the max number of iteration
 
 n = size(A,1);
