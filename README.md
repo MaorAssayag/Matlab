@@ -1,6 +1,6 @@
 # Mathlab
 
-## Floating Point Convertor 
+# Floating Point Convertor 
 
 
 * After searching the internet, i couldn't find a complete code for convert any number to a floating point arithmetic for any base and number of bits (in matlab) - so i code that.
@@ -13,7 +13,7 @@
 
 #
 
-## The Jacobi and Gauss-Seidel Iterative Methods
+# The Jacobi and Gauss-Seidel Iterative Methods
 
  * Iterative schemes require time to achieve sufficient accuracy and are reserved for large systems of equations where there
  are a majority of zero elements in the matrix. Often times the algorithms are taylor-made to take advantage of the special
@@ -43,3 +43,5 @@
  ![alt text](https://github.com/MaorAssayag/Mathlab/blob/master/The%20Jacobi%20and%20Gauss-Seidel%20Iterative%20Methods/pngs/gauss.PNG) 
  
    <a href="https://github.com/MaorAssayag/Mathlab/blob/master/The%20Jacobi%20and%20Gauss-Seidel%20Iterative%20Methods/gauss_seidel.m">code example</a>
+   
+   <a href="https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method">more info</a>
