@@ -11,4 +11,7 @@
     <a href="https://github.com/MaorAssayag/Mathlab/tree/master/floating_point">link</a>
 
 
+## The Jacobi and Gauss-Seidel Iterative Methods
+
+
 
