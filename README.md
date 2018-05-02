@@ -1,4 +1,4 @@
-# Mathlab
+# Matlab
 
 # Floating Point Convertor 
 
