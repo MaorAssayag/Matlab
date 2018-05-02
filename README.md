@@ -3,7 +3,7 @@
 # Floating Point Convertor 
 
 
-* After searching the internet, i couldn't find a complete code for convert any number to a floating point arithmetic for any base and number of bits (in matlab) - so i code that.
+* After searching the internet, i couldn't find a complete code for convert any number to a floating point arithmetic for any base and number of bits (in matlab).
 * ignore any mention of ML1 or MantisaLarger1 VARIABLES (its there to handle input that cant be represent in n bits of mantisa) [floaatingPoint & toBits functions].
 * This code is my first introduction to matlab - I am fully aware that isn't optimized, not using any special functions or syntax - but it will give you a good idea where to start.
 * <a href="https://en.wikipedia.org/wiki/Floating-point_arithmetic">floating point theroy in wiki</a>
